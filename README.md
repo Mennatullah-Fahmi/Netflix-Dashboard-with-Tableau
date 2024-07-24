@@ -1,7 +1,7 @@
 # [Netflix Dahboard with Tableau](https://project.novypro.com/sI5kD6)
 - This dashboard provides a comprehensive analysis of Netflix's TV shows and movies. It includes general statistics about top genres, the count of movies and TV shows, and their ratings. By leveraging Tableau, this dashboard offers an interactive experience that allows users to explore the data and gain insights into the content available on Netflix.
 - You can view an interactive demo from [here](https://project.novypro.com/sI5kD6)
-- 
+  
 ## Features
 
 - Top Genres: Visual representation of the most popular genres on Netflix.
